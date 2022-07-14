@@ -1,4 +1,10 @@
 #include "Warrior.h"
 
 =======
-int MAINFUNCTION() {}
+int main()
+
+{
+	//the main function
+
+}
+
